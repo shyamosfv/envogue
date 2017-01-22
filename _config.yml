@@ -5,7 +5,7 @@ email: envogueekm@gmail.com
 description: The company started its working in the year 2006 in kodungallur. It was first started in the name MIYAMI caterers and is now rewamped and reshaped in to En Vouge Event Planners to provide customer all their requirements for conducting a function.
               <br /> and released under the Creative Commons.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://envogueindia.github.io
+url:
 author: febil
 street_address:
 city: Kodungallur
